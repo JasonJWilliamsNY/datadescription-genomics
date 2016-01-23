@@ -1,7 +1,7 @@
 ---
 layout: lesson
 root: .
-title: Intro to ecoli evo experiment
+title: Intro to E.coli LTE Experiment
 minutes: 5
 ---
 
