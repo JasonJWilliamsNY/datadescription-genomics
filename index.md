@@ -8,7 +8,7 @@ minutes: 5
 
 
 
-## Learning Objectives for the entire set of Data Carpentry Genomics Lessons
+## Learning objectives for the entire set of Data Carpentry genomics lessons
 
 Lessons introduce and reinforce basic skills in the Unix shell and R, and are **designed for learners with no programming experience.** The general topics and skills covered include:
 
