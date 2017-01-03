@@ -47,7 +47,7 @@ Microbes are ideal organisms for exploring 'Long-term Evolution Experiments' (LT
 ## Why we chose this data set
 Data Carpentry workshops follow a narrative to illustrate key steps in the data analysis from the perspective of real experiment (and experimenter). We  choose the Lenski data for several reasons, including:
 
-* Simple, but iconic NGS-problem: Examine a population where we want to characterize changes in sequence *a priori* 
+* Simple, but iconic high-throughput sequencing problem: Examine a population where we want to characterize changes in sequence *a priori* 
 * Dataset publicly available - in this case through the NCBI Sequence Read Archive (http://www.ncbi.nlm.nih.gov/sra)
 * Small file sizes - while several of related files may still be hundreds of MBs, overall we will be able to get through more quickly then if we worked with a larger eukaryotic genome
 
