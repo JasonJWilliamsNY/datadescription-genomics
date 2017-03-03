@@ -14,9 +14,9 @@ Lessons introduce and reinforce basic skills in the Unix shell and R, and are **
 
 
 ### Interacting with Computers
-- Could Computing
+- Cloud Computing
 - Connecting to remote computing (SSH/PuTTY)
-- File Transfer (FileZilla, other command-line tools: scp, rsynch, wget, etc. )
+- File Transfer (FileZilla, other command-line tools: scp, rsync, wget, etc. )
 
 ### Data Management and Organization
 - Open source
@@ -36,7 +36,7 @@ Lessons introduce and reinforce basic skills in the Unix shell and R, and are **
 
 ### Automation and scripting
 - R scripting
-- 'For' loops
+- `For` loops
 - Building automated pipelines
 - Using multithreaded applications
 
